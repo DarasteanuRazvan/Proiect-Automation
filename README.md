@@ -1,6 +1,6 @@
 # Booking Automation Project
 
-This automation project aims to automate the booking process on a booking page using Cucumber, IntelliJ, and Java.
+Welcome to my Booking Automation Project! This automation project aims to automate the booking process on a booking page using Cucumber, IntelliJ, and Java.
 
 ## Project Details
 
