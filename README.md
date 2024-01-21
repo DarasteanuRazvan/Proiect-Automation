@@ -2,6 +2,8 @@
 
 Welcome to my Booking Automation Project! This automation project aims to automate the booking process on a booking page using Cucumber, IntelliJ, and Java.
 
+This is just a preview. For the full code, please contact me and i will grant a collaborator access for you. Thank you!
+
 ## Project Details
 
 - The booking page URL: [http://138.68.69.185/]
